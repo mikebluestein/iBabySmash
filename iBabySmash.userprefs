@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iBabySmash/license.txt" ctype="Workbench">
+    <Files>
+      <File FileName="iBabySmash/HexagonView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/TriangleView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/DrawingView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/DrawingViewController.xib.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/ShapeView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/Util.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/StarView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/license.txt" Line="22" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="iBabySmash" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
