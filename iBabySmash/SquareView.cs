@@ -16,7 +16,8 @@ namespace iBabySmash
         public override void CreateShape (CGPath path, CGContext gctx)
         {
             path.AddRect (new RectangleF (_origin, new SizeF (100, 100)));
-            gctx.AddPath (path);
+            
+			gctx.AddPath (path);
             
             gctx.DrawPath (CGPathDrawingMode.FillStroke);
         }

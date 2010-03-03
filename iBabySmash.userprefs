@@ -1,20 +1,25 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ctype="Workspace" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="iBabySmash/license.txt" ctype="Workbench">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iBabySmash/DrawingView.cs" ctype="Workbench">
     <Files>
       <File FileName="iBabySmash/HexagonView.cs" Line="1" Column="1" />
       <File FileName="iBabySmash/TriangleView.cs" Line="1" Column="1" />
-      <File FileName="iBabySmash/DrawingView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/DrawingView.cs" Line="37" Column="48" />
       <File FileName="iBabySmash/DrawingViewController.xib.cs" Line="1" Column="1" />
       <File FileName="iBabySmash/ShapeView.cs" Line="1" Column="1" />
       <File FileName="iBabySmash/Util.cs" Line="1" Column="1" />
       <File FileName="iBabySmash/StarView.cs" Line="1" Column="1" />
-      <File FileName="iBabySmash/license.txt" Line="22" Column="33" />
+      <File FileName="iBabySmash/license.txt" Line="1" Column="1" />
+      <File FileName="iBabySmash/SquareView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/CircleView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/CharacterView.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="iBabySmash" expanded="True" selected="True" />
+          <Node name="iBabySmash" expanded="True" selected="True">
+            <Node name="images" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">

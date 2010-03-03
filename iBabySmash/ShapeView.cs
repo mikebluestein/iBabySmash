@@ -24,7 +24,7 @@ namespace iBabySmash
         public override void Draw (RectangleF rect)
         {
             base.Draw (rect);
-            
+			
             CGContext gctx = UIGraphics.GetCurrentContext ();
             
             gctx.SetLineWidth (4);
@@ -35,7 +35,7 @@ namespace iBabySmash
             
             CGPath path = new CGPath ();
             
-            CreateShape (path, gctx);       
+            CreateShape (path, gctx); 
         }
 
         public abstract void CreateShape (CGPath path, CGContext gctx);
