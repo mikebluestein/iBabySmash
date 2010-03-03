@@ -34,8 +34,7 @@ namespace iBabySmash
             
             UIView.SetAnimationDelegate(this);
             UIView.SetAnimationDidStopSelector (new Selector ("pulseFinished"));      
-            UIView.SetAnimationDuration (0.5f);        
-            UIView.SetAnimationRepeatAutoreverses(true);
+            UIView.SetAnimationDuration (0.3f);        
 
             _sv.Transform = CGAffineTransform.MakeScale(1.4f, 1.4f);
             
@@ -44,8 +43,14 @@ namespace iBabySmash
         
         [Export ("pulseFinished")]
         public void PulseFinished()
-        {        
+        {    
+            UIView.BeginAnimations ("un-pulse");
+            
+            UIView.SetAnimationDuration (0.3f);        
+
             _sv.Transform = CGAffineTransform.MakeScale(1.0f, 1.0f);
+            
+            UIView.CommitAnimations ();
         }
 
         public override void TouchesBegan (NSSet touches, UIEvent evt)
