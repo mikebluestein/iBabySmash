@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iBabySmash/TinyStarView.cs" ctype="Workbench">
+    <Files>
+      <File FileName="iBabySmash/DrawingView.cs" Line="74" Column="10" />
+      <File FileName="iBabySmash/StarView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/HexagonView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/Util.cs" Line="17" Column="10" />
+      <File FileName="iBabySmash/ShapeView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/TriangleView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/DrawingViewController.xib.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/license.txt" Line="1" Column="1" />
+      <File FileName="iBabySmash/SquareView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/CircleView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/CharacterView.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/Main.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/TinyStarView.cs" Line="23" Column="13" />
+      <File FileName="iBabySmash/DrawingViewController.xib.designer.cs" Line="1" Column="1" />
+      <File FileName="iBabySmash/MainWindow.xib.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="iBabyShapes" expanded="True">
+            <Node name="DrawingViewController.xib" expanded="True" />
+            <Node name="MainWindow.xib" expanded="True" />
+            <Node name="TinyStarView.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
