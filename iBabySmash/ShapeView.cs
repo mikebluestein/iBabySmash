@@ -4,7 +4,7 @@ using MonoTouch.UIKit;
 using MonoTouch.CoreGraphics;
 using System.Drawing;
 
-namespace iBabySmash
+namespace iBabyShapes
 {
 
 

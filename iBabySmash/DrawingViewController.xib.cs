@@ -3,7 +3,7 @@ using System;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace iBabySmash
+namespace iBabyShapes
 {
 	public partial class DrawingViewController : UIViewController
 	{

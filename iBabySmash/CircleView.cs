@@ -3,7 +3,7 @@ using System;
 using MonoTouch.CoreGraphics;
 using System.Drawing;
 
-namespace iBabySmash
+namespace iBabyShapes
 {
 
 
